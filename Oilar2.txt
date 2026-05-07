@@ -1,2 +1,6 @@
 kaitadan koreik
 ozim step
+
+--
+
+kaitadan ozgertim
